@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-  RoyalBounce<br>
-  "is there life on mars?"
-</h1>
+<h1 align="center">RoyalBounce</h1>
+<p align="center">"is there life on mars?"</p>
+
