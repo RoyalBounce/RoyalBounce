@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">RoyalBounce</h1>
-<p align="center">"is there life on mars?"</p>
+<p align="center">"There is a certain unending beauty of creation, isn’t there?"</p>
 
