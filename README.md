@@ -31,10 +31,11 @@ learning by doing, discarding, rebuilding
 ---
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nim/nim-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nim/nim-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="40"/>
 </p>
