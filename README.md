@@ -35,4 +35,5 @@ learning by doing, discarding, rebuilding
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/lua/lua-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="40"/>
 </p>
